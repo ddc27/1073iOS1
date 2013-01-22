@@ -1,14 +1,14 @@
 This is an example README.md
 
-David Evans / dse4@pitt.edu
+Daniel Clayton / ddc27@pitt.edu
 ==================
 
 Three Facts About Me
 ---
 
-*   I was born in Oakland, just a few blocks from the Cathedral
-*   I have two dogs.
-*   I can't stand when people whistle in public.
+*   I am a senior IS student at Pitt.
+*   I live in Robinson Township.
+*   I have no idea what I want to do after I graduate.
 
 ---
 
